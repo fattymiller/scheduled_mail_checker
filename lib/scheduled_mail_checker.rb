@@ -5,3 +5,5 @@ module ScheduledMailChecker
     end
   end
 end
+
+puts "Installed at: #{File.dirname(__FILE__)}"
